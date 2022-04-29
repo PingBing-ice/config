@@ -2,4 +2,4 @@ spring:
   application:
     name:  cloud-config-center
 config:
-  info: config-client version=1
+  info: config-client version=2
