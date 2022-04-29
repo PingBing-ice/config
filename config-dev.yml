@@ -1,5 +1,5 @@
 spring:
   application:
     name:  cloud-config-center
-cofig:
-  info: 你号
+config:
+  info: config-client
